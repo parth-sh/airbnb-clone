@@ -80,4 +80,12 @@
     Making header Navbar by daisy UI components
 
     Using scss files in stylesheets, Install gem "sassc-rails"
+
+5. Part2 YT video
+
+    Fixed scss pre-compiler error for, config/manifest.js
+
+    Added npm install el-transition, ./bin/importmap pin el-transition
+    
+    Added closing transtion for header nav menu items
     
