@@ -67,3 +67,6 @@ end
 
 
 gem "devise"
+
+# scss pre-processor
+gem "sassc-rails"
